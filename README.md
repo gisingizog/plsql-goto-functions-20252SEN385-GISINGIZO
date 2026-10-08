@@ -1,6 +1,3 @@
-# plsql-goto-functions-20252SEN385-GISINGIZO
-
-
 # Employee Management System Using PL/SQL
 
 ## 1. Project Description
